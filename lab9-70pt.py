@@ -12,3 +12,8 @@
 # Accept user input 
 # Calculate fahrenheit
 # Output answer
+
+print 'Temperiture...'
+T = int(raw_input())
+T = T * 9 / 5
+print T
